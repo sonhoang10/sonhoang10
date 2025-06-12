@@ -10,8 +10,8 @@
 
 ## 📫 Connect with Me
 - 📧 Email: thaihoangson0408@gmail.com  
-- 🐱 GitHub: (https://github.com/your-username)
-- 🌐 Facebook: https://www.facebook.com/son.hoang.145176/
+- 🐱 GitHub: [sonhoang10](https://github.com/sonhoang10)  
+- 🌐 Facebook: [Son_Hoang](https://www.facebook.com/son.hoang.145176/)
 
 ## ✨ Fun facts :
 - 🔤 I name variables like temp, data, x, and then forget what they mean 10 minutes later 😢
