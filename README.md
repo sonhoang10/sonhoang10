@@ -1,16 +1,20 @@
-## Hi there 👋
+## 💡 About Me
+- 🔭 Currently exploring: Web/App development, AI, and competitive programming
+- 💻 Languages I use: Python, C++, JavaScript, HTML/CSS
+- 📘 Always learning something new
 
-<!--
-**sonhoang10/sonhoang10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Projects
+- 📂 [Student Management App](https://github.com/sonhoang10/SMS) – A simple app using Flask & TinyDB  
+- 🎮 [AI_image_search_beta](https://github.com/sonhoang10/AI_Image_search) – A simple app using free API:D
+- 🧠 [AI Voice Cloning](https://github.com/sonhoang10/TTS) – Voice cloning using TTS models
 
-Here are some ideas to get you started:
+## 📫 Connect with Me
+- 📧 Email: thaihoangson0408@gmail.com  
+- 🐱 GitHub: (https://github.com/your-username)
+- 🌐 Facebook: https://www.facebook.com/son.hoang.145176/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Fun facts :
+- 🔤 I name variables like temp, data, x, and then forget what they mean 10 minutes later 😢
+---
+
+Thanks for visiting! ⭐⭐⭐⭐⭐
