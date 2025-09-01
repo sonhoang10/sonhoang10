@@ -5,7 +5,7 @@
 
 ## 🚀 Projects
 - 📂 [Student Management App](https://github.com/sonhoang10/SMS) – A simple app using Flask & TinyDB  
-- 🎮 [AI_image_search_beta](https://github.com/sonhoang10/AI_Image_search) – A simple app using free API:D
+- ♻️ [AI_waste_classifier](https://github.com/sonhoang10/waste_classifier) – An AI can classify trash
 - 🧠 [AI Voice Cloning](https://github.com/sonhoang10/TTS) – Voice cloning using TTS models
 
 ## 📫 Connect with Me
